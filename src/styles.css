@@ -1,0 +1,29 @@
+.box {
+    background-color: lightpink;
+}
+
+.search-form {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.input-search {
+    height: 20px;
+    width: 200px;
+}
+
+.btn-search {
+    padding: 6px;
+    background-color: plum;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    border: none;
+}
+
+.btn-search:hover {
+    background-color: blueviolet;
+}
