@@ -5,6 +5,7 @@
   "homepage": "https://goitacademy.github.io/goit-js-hw-11",
   "scripts": {
     "start": "parcel src/*.html",
+     "test": "test",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
